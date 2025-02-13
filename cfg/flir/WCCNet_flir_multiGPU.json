@@ -1,0 +1,2 @@
+{"experiment_name": "WCCNet_flir_multi", "name": null, "dist_backend": "nccl", "dist_url": null, "batch_size": 24, "devices": 2,"gpuid": 0, "exp_file": "exps/user/flir/WCCNet_flir.py", "resume": false, "ckpt": null, "start_epoch": 1, "num_machines": 1, "machine_rank": 0, "fp16": false, "cache": false, "occupy": false, "opts": [], "multigpu": true}
+

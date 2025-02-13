@@ -1,0 +1,15 @@
+torch>=1.8
+torchvision
+pycocotools>=2.0.2
+numpy
+opencv_python
+loguru
+scikit-image
+tqdm
+Pillow
+thop
+ninja
+tabulate
+tensorboard
+pytorch_wavelets
+PyWavelets
