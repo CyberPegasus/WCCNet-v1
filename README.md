@@ -1,6 +1,7 @@
 # WCCNet
 
-> [WCCNet: Wavelet-integrated CNN with Crossmodal Rearranging Fusion for Fast Multispectral Pedestrian Detection](https://arxiv.org/abs/2308.01042)
+> WCCNet: Wavelet-context Cooperative Network for
+Efficient Multispectral Pedestrian Detection
 
 This repository contains the supported code, configuration files and model weights of [our proposed WCCNet](https://arxiv.org/abs/2308.01042). 
 
@@ -25,11 +26,10 @@ The contents are as follows:
     + [4.3 Run with multi GPUs on one device](#43-run-with-multi-gpus-on-one-device)
   * [5. Brief Illustration on Customized Models or Customized Datasets](#5-brief-illustration-on-customized-models-or-customized-datasets)
 - [Acknowledgement](#acknowledgement)
-- [Citation](#citation)
 
 ## Introduction
 
-For efficient multispectral pedestrian detection, we propose a novel wavelet-integrated CNN framework named WCCNet that is able to differentially extract rich features of different spectra with lower computational complexity and semantically rearranges these features for effective crossmodal fusion. For more details, please refer to [our paper](https://arxiv.org/abs/2308.01042).
+For efficient multispectral pedestrian detection, we propose a novel wavelet-integrated CNN framework named WCCNet that is able to differentially extract rich features of different spectra with lower computational complexity and semantically rearranges these features for effective crossmodal fusion. For more details, please refer to our paper.
 
 
 
@@ -424,15 +424,3 @@ We appreciate following providers.
 - [YOLOX](https://github.com/Megvii-BaseDetection/YOLOX)
 - [pytorch_wavelets](https://github.com/fbcotter/pytorch_wavelets)
 - [log-average MR evaluation](https://github.com/sejong-rcv/MLPD-Multi-Label-Pedestrian-Detection).
-
-## Citation
-
-If you use WCCNet in your research, please cite our work:
-```latex
-@article{wccnet2023,
-	title = {WCCNet: Wavelet-integrated CNN with Crossmodal Rearranging Fusion for Fast Multispectral Pedestrian Detection},
-	author = {Wang, Xingjian and Chai, Li and Chen, Jiming and Shi, Zhiguo},
-	journal={arXiv preprint arXiv:2308.01042},
-	year={2023}
-}
-```
