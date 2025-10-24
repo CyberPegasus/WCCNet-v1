@@ -3,7 +3,7 @@
 > WCCNet: Wavelet-context Cooperative Network for
 Efficient Multispectral Pedestrian Detection
 
-This repository contains the supported code, configuration files and model weights of [our proposed WCCNet](https://arxiv.org/abs/2308.01042). 
+This repository contains the supported code, configuration files and model weights of our proposed WCCNet. 
 
 The contents are as follows:
 
