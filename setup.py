@@ -40,8 +40,8 @@ def get_extensions():
 
 def get_package_dir():
     pkg_dir = {
-        "wccnet.tools": "tools",
-        "wccnet.exp.default": "exps/default",
+        "wccnet.tools": "wccnet/tools",
+        "wccnet.exp.default": "wccnet/exps/default",
     }
     return pkg_dir
 
