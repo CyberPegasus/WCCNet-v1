@@ -3,6 +3,7 @@
 > WCCNet: Wavelet-integrated CNN with Crossmodal Rearranging Fusion for Fast Multispectral Pedestrian Detection
 
 This repository contains the supported code, configuration files and model weights of our proposed WCCNet-v1 [https://arxiv.org/abs/2308.01042v1]. 
+The corresponding code and weights of WCCNet-v2 [https://arxiv.org/abs/2308.01042v3] (WCCNet: Wavelet-context Cooperative Network for Efficient Multispectral Pedestrian Detection) will be coming soon.
 
 The contents are as follows:
 
